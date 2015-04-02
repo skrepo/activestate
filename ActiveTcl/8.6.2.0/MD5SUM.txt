@@ -1,0 +1,6 @@
+51569f2faa8b276dcd60bd9cb20fb0a9  ActiveTcl8.6.2.0.298433-html.tar.gz
+c7d3476a0a2f6d38c6aa33ba51f09da0  ActiveTcl8.6.2.0.298433-linux-ix86-threaded.tar.gz
+9069da5832d48057585c04decc2266b9  ActiveTcl8.6.2.0.298433-linux-x86_64-threaded.tar.gz
+a886efcc1694a476f401deadb293dfdb  ActiveTcl8.6.2.0.298433-macosx10.5-i386-x86_64-threaded.dmg
+bc041ef795e5c394bb6fb66c5bd729ae  ActiveTcl8.6.2.0.298433-win32-ix86-threaded.exe
+8b1b6d5731105ed62d796e342ffe3c09  ActiveTcl8.6.2.0.298433-win32-x86_64-threaded.exe

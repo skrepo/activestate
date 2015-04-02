@@ -1,0 +1,6 @@
+7f0d290a6cf1ecd90f456a85c566f392  ActiveTcl8.5.16.0.298506-html.tar.gz
+6daf9e1c7e4f977936e64f6417d4d87c  ActiveTcl8.5.16.0.298506-linux-ix86-threaded.tar.gz
+b4614dc8d51f4cfc5f0732a29fdd9a30  ActiveTcl8.5.16.0.298506-linux-x86_64-threaded.tar.gz
+222aecfb09ee1c39c5bcba85d437826c  ActiveTcl8.5.16.0.298506-macosx10.5-i386-x86_64-threaded.dmg
+2bd986f32896d246b650b446798f55b4  ActiveTcl8.5.16.0.298506-win32-ix86-threaded.exe
+9d7a7ea4df9e5f808aded787c99fabf8  ActiveTcl8.5.16.0.298506-win32-x86_64-threaded.exe
